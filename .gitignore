@@ -1,0 +1,19 @@
+# ---- 构建产物（不要提交）----
+build/
+.vs/
+Debug/
+Release/
+x64/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.dll
+
+# ---- 编辑器/临时文件 ----
+*.user
+*.suo
+*.bak
+*.ipch
+CMakeCache.txt
+CMakeFiles/
